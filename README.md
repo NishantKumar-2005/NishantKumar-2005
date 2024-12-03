@@ -1,5 +1,5 @@
 # 💫 About Me:
-Good Morning Maam , my name is Nishant , I am pursing my Btech in Information Technology from Guru Gobind Singh Intraprasth University , <br>I am Full stack developer with FrontEnd in Html , Css and uses JavaScript Lib React , For Backend I use Asp .Net Web API and Sql for Database <br>I have 3 months Internship Experience in FrontEnd from Career Banao , And 4 months Experience in Backend From Block B technology , <br>I have done several Projects like CRUD Operation with Redis which Eliminates Database explosion , Real time Device Tracking , Temporary confidencial chat app , Vulnerability scanner etc .
+Hello World , my name is Nishant , I am pursing my Btech in Information Technology from Guru Gobind Singh Intraprasth University , <br>I am Full stack developer with FrontEnd in Html , Css and uses JavaScript Lib React , For Backend I use Asp .Net Web API and Sql for Database <br>I have 3 months Internship Experience in FrontEnd from Career Banao , And 4 months Experience in Backend From Block B technology , <br>I have done several Projects like CRUD Operation with Redis which Eliminates Database explosion , Real time Device Tracking , Temporary confidencial chat app , Vulnerability scanner etc .
 
 
 ## 🌐 Socials:
